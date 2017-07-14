@@ -1,0 +1,16 @@
+{
+  "name": "inspirobot-discord",
+  "version": "1.0.0",
+  "description": "InspiroBot integration with Discord",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "private": true,
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "dotenv": "^4.0.0",
+    "request": "^2.81.0",
+    "uws": "^8.14.0"
+  }
+}
